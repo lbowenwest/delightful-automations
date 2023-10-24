@@ -85,8 +85,8 @@ hash = "a1659dc663c6e42f1e410b1833594e8f36cd4f7f2dbfc40068f9ed65676af691"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric-sodium-fix.pw.toml"
-hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
+file = "mods/create-fabric.pw.toml"
+hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
 metafile = true
 
 [[files]]
@@ -175,16 +175,6 @@ hash = "7e9f6a5b564e4fbe92bff784eb13a2565eb5a631ed452cf9b8748e73935ae8b2"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
-hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "87ea5bf588ed195eaee3bcbd2432b5671692a203b25b688ffcbfeea6d2cea775"
-metafile = true
-
-[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "284fc793b1ba4d32cef7a8b48d71a6d165ee6bc02c8f39625471c755ce5a3c32"
 metafile = true
@@ -240,11 +230,6 @@ hash = "0806fafc99d2bc0d3caf9bbf726367ee3e1a56788a6254b58b45567980dce7f1"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
-metafile = true
-
-[[files]]
 file = "mods/respite-creators-fabric.pw.toml"
 hash = "bf0954317bd6cb4067803b2324ec4669713e5c87ea0b778163574a8cf190fa0a"
 metafile = true
@@ -252,16 +237,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "af8bd290a5c7d75986905bf1b433e238e14933539836ac7bc37be02b3dcd6613"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "4e691c86059e755a026b8cae8cf0c66396dc39bf47b6c71980589101803ecd36"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
 
 [[files]]
