@@ -1,13 +1,9 @@
 name = "Puzzles Lib"
-filename = "PuzzlesLib-v8.0.24-1.20.1-Fabric.jar"
+filename = "PuzzlesLib-v8.0.37.479-1.20.1-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/QAGBst4M/versions/KGAO1rK6/PuzzlesLib-v8.0.24-1.20.1-Fabric.jar"
+url = "https://cdn.discordapp.com/attachments/917550806922846299/1163179378058993805/PuzzlesLib-v8.0.37.479-1.20.1-Fabric.jar?ex=653ea236&is=652c2d36&hm=77bb9a86aeab2ed7a8a9effd156b266e78b781bff63fc7b983c18d6bce07c3b3&"
 hash-format = "sha1"
-hash = "f945c6219e97716d7cfcd0911aeb24b7de1c2d70"
+hash = "e92c36a9fc713058789e5f6489783e23d8cd6c43"
 
-[update]
-[update.modrinth]
-mod-id = "QAGBst4M"
-version = "KGAO1rK6"
