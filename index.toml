@@ -46,10 +46,6 @@ hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
 
 [[files]]
-file = "mods/DistantHorizons-2.0.0-a-dev-1.20.1.jar"
-hash = "a61d9d26eea5c842abaf6be8bbff8e170a344d8346623894f1a416cf94a6d1aa"
-
-[[files]]
 file = "mods/animatica.pw.toml"
 hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
 metafile = true
