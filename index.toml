@@ -350,11 +350,6 @@ hash = "4607ed54f2651a2dd0413150ead6959ef2b0084f6303a6249e34cecf0bd8d133"
 metafile = true
 
 [[files]]
-file = "mods/lilac.pw.toml"
-hash = "baca3b76ab9bf92fe2335a39285822ba68e47650eeb3ae145a6fea0061c6c9e9"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -407,11 +402,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
-metafile = true
-
-[[files]]
-file = "mods/optigui.pw.toml"
-hash = "0806fafc99d2bc0d3caf9bbf726367ee3e1a56788a6254b58b45567980dce7f1"
 metafile = true
 
 [[files]]
