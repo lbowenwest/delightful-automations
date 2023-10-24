@@ -1,0 +1,13 @@
+name = "SomeOrdinaryTweaks"
+filename = "some-ordinary-tweaks-1.7.0+1.20-alpha.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LNeXYJOg/versions/BrhmZQDc/some-ordinary-tweaks-1.7.0%2B1.20-alpha.jar"
+hash-format = "sha1"
+hash = "ad8d9d3c180b6a3844b84303e5d7413bba500fdb"
+
+[update]
+[update.modrinth]
+mod-id = "LNeXYJOg"
+version = "BrhmZQDc"

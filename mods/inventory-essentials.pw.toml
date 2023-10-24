@@ -1,0 +1,13 @@
+name = "Inventory Essentials"
+filename = "inventoryessentials-fabric-1.20.1-8.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Boon8xwi/versions/KN08crcd/inventoryessentials-fabric-1.20.1-8.2.1.jar"
+hash-format = "sha1"
+hash = "7d83cda680934369e978b832e7829e06e107864d"
+
+[update]
+[update.modrinth]
+mod-id = "Boon8xwi"
+version = "KN08crcd"
