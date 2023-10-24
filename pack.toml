@@ -1,0 +1,13 @@
+name = "Delightful Automations"
+author = "tweakyllama"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3c6d8513802c9f6ab7367cc90fcabd81130b5c0b70f582c62ca41c8be01ee698"
+
+[versions]
+fabric = "0.14.23"
+minecraft = "1.20.1"
