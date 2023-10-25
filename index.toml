@@ -486,13 +486,13 @@ hash = "41209fe012e1c2a5f6adfff3eec65b9c35f5abc6a4d52617d9d02734a0350855"
 metafile = true
 
 [[files]]
-file = "mods/tool-trims.pw.toml"
-hash = "ccf22d56064486c000fabf277b131975c83e6f789dfedb85d392f79f74910bac"
+file = "mods/trade-cycling.pw.toml"
+hash = "4df8fae8ad6a6a67322567039c1163e484a25148353e1b92d4c73a0c77f1acb7"
 metafile = true
 
 [[files]]
-file = "mods/trade-cycling.pw.toml"
-hash = "4df8fae8ad6a6a67322567039c1163e484a25148353e1b92d4c73a0c77f1acb7"
+file = "mods/trimmable-tools.pw.toml"
+hash = "17631374fb5a81876cd84aa55322cf7ca8f0534447f9ea7e43c94211491ae985"
 metafile = true
 
 [[files]]
