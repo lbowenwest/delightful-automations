@@ -66,6 +66,11 @@ hash = "6583d0be69339fbe7909ed5f60f49255dfdefc116e8195f30b73a23d3c6ec5c2"
 metafile = true
 
 [[files]]
+file = "mods/axes-are-weapons.pw.toml"
+hash = "7d3db5f37a91ed7af9ced5b72d9d14774498c5b4f398b2c06e1c05bd3f33db07"
+metafile = true
+
+[[files]]
 file = "mods/backpacked-fabric.pw.toml"
 hash = "83a32267aa14479c455eb564df451b8a14a6a4148661264193d2ef6aa84a0537"
 metafile = true
