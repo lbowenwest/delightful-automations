@@ -296,6 +296,11 @@ hash = "f54469ee70709fcad614ba0ea312ff9aa3b0047993a59133b8a5313aa309b917"
 metafile = true
 
 [[files]]
+file = "mods/fluidlogged.pw.toml"
+hash = "57222b99906909b49cd3eec0dfb7d5277e205148a8461f2c0c06ed267b9b43d6"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
@@ -446,6 +451,11 @@ hash = "bcf7b1f7226b3db7c78ba826464d17b71ed2e051898fd582b270e02cd8737320"
 metafile = true
 
 [[files]]
+file = "mods/pretty-beaches.pw.toml"
+hash = "d1808bbe3e38decf888be690198b6c5870131b78a412403abab3452113617bc3"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "f04ae88ff0f14cfd4c5115dda4c0e9e386bf985a272382e60467d7e26c66436e"
 metafile = true
@@ -453,6 +463,11 @@ metafile = true
 [[files]]
 file = "mods/random-bone-meal-flowers.pw.toml"
 hash = "3b5584bd1c48d70a0070f8d8a08fc86c9b4452f99b6c6b9e8ae30dc6ddd0c970"
+metafile = true
+
+[[files]]
+file = "mods/reacharound.pw.toml"
+hash = "1bdc2b4d59ee6805bcd05fb4a68782c2a020270a7da21531b245fd03b5ba2426"
 metafile = true
 
 [[files]]
@@ -486,6 +501,11 @@ hash = "edba7765364ba526fcc7da563e9858d997dd9915401e08040c32de7f79d1bb91"
 metafile = true
 
 [[files]]
+file = "mods/silence-mobs.pw.toml"
+hash = "9a5c577069608325e57c2d7277fd0175fc391b660aa1b2bfcdf20c51c7f49949"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
@@ -498,6 +518,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "41209fe012e1c2a5f6adfff3eec65b9c35f5abc6a4d52617d9d02734a0350855"
+metafile = true
+
+[[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "f4899afec6500b2a8e3f061abbb6bc34287f3f6992b9e24ba4706d4dad825cc4"
 metafile = true
 
 [[files]]
