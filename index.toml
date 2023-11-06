@@ -331,6 +331,11 @@ hash = "50cc94fc6be060961dc3f1f4b2104927e2dcf3fcd4728caf0b507aee21d9226f"
 metafile = true
 
 [[files]]
+file = "mods/grind-enchantments.pw.toml"
+hash = "37d61e139caff12dc4d16b41e7162cd370c1017ffc60858189b9aeec75c0eff6"
+metafile = true
+
+[[files]]
 file = "mods/guard-villagers-(fabricquilt).pw.toml"
 hash = "420e17b042950d126675c8404b2f8144305b50bf218b868ded28748aa07cffca"
 metafile = true
