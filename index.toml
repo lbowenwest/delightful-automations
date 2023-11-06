@@ -421,6 +421,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/llama-steeds.pw.toml"
+hash = "d486b8814d6c4a3032f6902e3a371f2a7960d0009bee5426f44b4ee6fd8ea6db"
+metafile = true
+
+[[files]]
 file = "mods/lmd.pw.toml"
 hash = "ba3601db0cde83877beb8e4c53cdcb5168c7350724a2a568fcc957f6ad9223f2"
 metafile = true
