@@ -536,6 +536,11 @@ hash = "385f810437d6f3b81f72568107ee3bedb78660c30d4375a3b71499917ab311b4"
 metafile = true
 
 [[files]]
+file = "mods/shiny-horses.pw.toml"
+hash = "49ebd00919447126199e0fc5eb3228003a7515880d32a97026f97d9d5403cb83"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "edba7765364ba526fcc7da563e9858d997dd9915401e08040c32de7f79d1bb91"
 metafile = true
