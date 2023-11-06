@@ -86,6 +86,11 @@ hash = "ba31b113733abc813e36738bdc8104fad628232d29907f66f48cf8c45299de9f"
 metafile = true
 
 [[files]]
+file = "mods/bundle-tweaks.pw.toml"
+hash = "bbea28157818eda0683b6800f473e41ca65e5aa92e1228b950370504a4ee423d"
+metafile = true
+
+[[files]]
 file = "mods/bushier-flowers.pw.toml"
 hash = "28fb59dd8303b624eae37b491010478ee8f850edc3116111ebf715a3a3673e3b"
 metafile = true
