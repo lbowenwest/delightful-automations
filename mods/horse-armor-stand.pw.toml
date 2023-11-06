@@ -1,0 +1,13 @@
+name = "Horse Armor Stand"
+filename = "horsearmorstandmod-1.0.1-1.19.4-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9CbsP5lC/versions/8m1CIDuc/horsearmorstandmod-1.0.1-1.19.4-1.20.1.jar"
+hash-format = "sha1"
+hash = "fb8e2d756c0ead020dc8bd550091ab291132c5a4"
+
+[update]
+[update.modrinth]
+mod-id = "9CbsP5lC"
+version = "8m1CIDuc"

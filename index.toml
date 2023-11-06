@@ -321,6 +321,11 @@ hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "08636c58b5d8591cb713231a9f9831369436b8ad2504c5610c3b66370b5891fc"
+metafile = true
+
+[[files]]
 file = "mods/geophilic.pw.toml"
 hash = "50cc94fc6be060961dc3f1f4b2104927e2dcf3fcd4728caf0b507aee21d9226f"
 metafile = true
@@ -328,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/guard-villagers-(fabricquilt).pw.toml"
 hash = "420e17b042950d126675c8404b2f8144305b50bf218b868ded28748aa07cffca"
+metafile = true
+
+[[files]]
+file = "mods/horse-armor-stand.pw.toml"
+hash = "9fa157acf9925d428510cb9a76b8457880875166042b512933ad264363d00681"
 metafile = true
 
 [[files]]
