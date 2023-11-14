@@ -34,7 +34,11 @@ hash = "eb5bc1f0231650b70e45bf18d4c9d29a7c2148b0266e804cb44c40d19c1a34ad"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
-hash = "6fefbfee1bbb7d12b7961e3d65574e887827a5c1d3f2b401b1efdb81bb2bf964"
+hash = "a472f50d54a90caf40c4b44379df0c2c1d652895bd31b11382e4f49aefd2c2ad"
+
+[[files]]
+file = "kubejs/server_scripts/recipes.js"
+hash = "7f1892fa95824fd2883bf1fb1b49b761fcb2f9cd3c4a9fc3d54b92361667ae2e"
 
 [[files]]
 file = "kubejs/startup_scripts/modifications.js"
@@ -311,6 +315,11 @@ hash = "57222b99906909b49cd3eec0dfb7d5277e205148a8461f2c0c06ed267b9b43d6"
 metafile = true
 
 [[files]]
+file = "mods/force-crawl.pw.toml"
+hash = "8a51e6bea9d5b04c436ea4169816b3fd6f31de28dd87d888c71f362cb75b9277"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
@@ -401,6 +410,11 @@ hash = "284fc793b1ba4d32cef7a8b48d71a6d165ee6bc02c8f39625471c755ce5a3c32"
 metafile = true
 
 [[files]]
+file = "mods/labels.pw.toml"
+hash = "f9a8157293c75d443effb46f703044a9c1a583c43483512c091c0ea820e7f7fb"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
@@ -468,6 +482,11 @@ metafile = true
 [[files]]
 file = "mods/nethers-delight-fabric.pw.toml"
 hash = "3dda9d9871e608fd8b97db8797e70ed5473036485257035409fb9c568b2c6c08"
+metafile = true
+
+[[files]]
+file = "mods/normal-damage.pw.toml"
+hash = "11228c5faf998937c263a313f402033a9edafb05911343a2c5b84fd01f7aa064"
 metafile = true
 
 [[files]]
